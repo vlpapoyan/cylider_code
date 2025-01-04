@@ -1,1 +1,1 @@
-Wolfram Mathematica code to evaluate analytical expressions for the subleading correction terms f_P of the free energy F, as a function of the aspect ratio ρ, for dimers on 2M x 2N, (2M - 1) x 2N and 2M x (2N - 1) cylinders. In all cases, the value of P starts at 1 and can be higher.
+Wolfram Mathematica code to evaluate analytical expressions for the subleading correction terms f_P of the free energy F, as a function of the aspect ratio ρ, for dimers on 2M x 2N, (2M - 1) x 2N and 2M x (2N - 1) cylinders. In all cases, the value of P starts from 1 and goes up to 17.
